@@ -2,7 +2,7 @@
 
 ### A web developer in training
 
-All of my public projects will soon be available at [http://sjogren.dev](http://sjogren.dev)
+All of my public projects will soon be available at [https://sjogren.dev](sjogren.dev)
 
 Contact me at: **vincent@sjogren.dev**
 
@@ -49,21 +49,6 @@ Contact me at: **vincent@sjogren.dev**
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
             alt="express" width="40" height="40" />
     </a>
-    <!-- pug -->
-    <a href="https://pugjs.org" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug"
-            width="40" height="40" />
-    </a>
-    <!-- sqlite -->
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
-            alt="sqlite" width="40" height="40" />
-    </a>
-    <!-- postgresql -->
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-            alt="postgresql" width="40" height="40" />
-    </a>
     <!-- git -->
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -88,11 +73,6 @@ Contact me at: **vincent@sjogren.dev**
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="python" width="40" height="40" />
-    </a>
-    <!-- heroku -->
-    <a href="https://heroku.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
-            alt="heroku" width="40" height="40" />
     </a>
     <!-- photoshop -->
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
