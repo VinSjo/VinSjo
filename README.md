@@ -2,7 +2,7 @@
 
 ### Front end developer
 
-[https://sjogren.dev](sjogren.dev)
+**[sjogren.dev](https://sjogren.dev)**
 
 Contact me at: **vincent@sjogren.dev**
 
